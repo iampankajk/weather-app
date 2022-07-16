@@ -1,0 +1,9 @@
+.container{
+    width: 60%;
+    margin:20px auto;
+    background-image:linear-gradient(rgb(63, 94, 181),rgb(178, 98, 98));
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+    
+}
