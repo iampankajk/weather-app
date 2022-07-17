@@ -22,7 +22,7 @@ const Form = ({ getWeather }) => {
         alt="cloud"
         className={styles.cloud}
       />
-      <div>
+      <div className={styles.action}>
         <input className={styles.input} ref={city}></input>
         <button className={styles.button}>Search</button>
       </div>
