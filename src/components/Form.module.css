@@ -30,4 +30,7 @@
         display: block;
         margin: 2px auto;
     }
+    .form{
+        width: 90%;
+    }
 }
