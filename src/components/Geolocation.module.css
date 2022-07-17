@@ -12,7 +12,6 @@
     margin: auto;
 }
 .infoBox{
-    border: 1px solid red;
     width: 80%;
     margin: auto;
     display: flex;
@@ -22,7 +21,6 @@
     background-image: linear-gradient(black,rgb(44, 44, 139));
 }
 .infoBox>div{
-    border: 1px solid red;
     width: 45%;
 }
 
@@ -32,7 +30,6 @@
 
 .time{
     display: flex;
-    border: 1px red solid;
     justify-content: space-between;
 }
 
